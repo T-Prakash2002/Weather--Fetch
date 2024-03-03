@@ -1,0 +1,24 @@
+.card,.Weatherdisplay{
+    margin: 5%;
+    max-width: 350px;
+    height:fit-content;
+
+    background-color: rgb(118, 184, 171);
+    border-radius: 9px;
+}
+.card-body,.card-header{
+    background-color: rgb(118, 184, 171);
+
+}
+img{
+    border-radius: 9px;
+}
+button{
+
+    max-width: 400px;
+}
+.Weatherdisplay{
+    background-color: rgba(223, 218, 207, 0.411);
+    padding: 5%;
+    border-radius: 6px;
+}
